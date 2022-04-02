@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ProductFilterServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-02T15:46:13" hostname="DESKTOP-1BU4I2Q" time="0.036">
+  <properties/>
+  <testcase name="filterByCategoryShouldReturnAllProductsWithCategory()" classname="service.ProductFilterServiceTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
